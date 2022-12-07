@@ -1,5 +1,4 @@
 # import core pkgs
-from bs4 import ResultSet
 import streamlit as st
 import altair as alt 
 
